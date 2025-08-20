@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://dpwinter.github.io/nbdev-hello-world"
+  description: "x"
+  repo-branch: main
+  repo-url: "https://github.com/dpwinter/nbdev-hello-world"
